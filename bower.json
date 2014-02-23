@@ -1,0 +1,8 @@
+{
+    "name": "sparkline",
+    "version": "0.0.1",
+    "main": ["sparkline.js"],
+    "ignore": [
+               "**/*.htm"
+               ]
+}
